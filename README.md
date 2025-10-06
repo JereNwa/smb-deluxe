@@ -13,7 +13,7 @@ World Select - B (works after the game is beat) <br/>
 (To play as Luigi: hold the L key while pressing the enter or P key) <br/>
  
 ## Credits
-TurboWarp for their [amazing packager](https://www.packager.turbowarp.org)
+TurboWarp for their [amazing packager](https://packager.turbowarp.org)
 >The following usernames are _**Scratch**_ usernames.
 >jen6C is my Scratch account.
 
