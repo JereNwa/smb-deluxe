@@ -1,6 +1,17 @@
 # smb-deluxe
 A modernised version of the original Super Mario Bros. ported from Scratch. I first made this three years ago and is a remix of @TTTEfanSQB (Scratch username).
 
+## Controls
+Run and Fireballs - X or K <br/>
+Jump - Z or Up Arrow or W or L <br/>
+Move - Left and Right Arrows or A and D <br/>
+Crouch (only for when Mario/Luigi is big) - Down Arrow or S <br/>
+Start/Pause - Enter or P <br/>
+Menu Select - Space Bar <br/>
+Mute/Unmute - M <br/>
+World Select - B (works after the game is beat) <br/>
+(To play as Luigi: hold the L key while pressing the enter or P key) <br/>
+ 
 ## Credits
 TurboWarp for their [amazing packager](https://www.packager.turbowarp.org)
 >The following usernames are _**Scratch**_ usernames.
