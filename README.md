@@ -30,7 +30,7 @@ jen6C - Sprite colour<br/>
 Creators: @TTTEfanSQB and @jen6C
 
 ## Download
-<a href=".src/Super Mario Bros. Deluxe v3.2.1.zip">Download as an .zip file</a>
+<a href=".src/Super Mario Bros. Deluxe v3.2.1.zip">Download as an .zip file</a><br/>
 <a href=".src/Super Mario Bros. Deluxe v3.2.1.sb3">Download as an .sb3 (Scratch project) file</a>
 
 ## Other stuff
