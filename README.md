@@ -1,7 +1,7 @@
 # smb-deluxe
 A modernised version of the original Super Mario Bros. ported from Scratch. I first made this three years ago and is a remix of @TTTEfanSQB (Scratch username).
 
-To play the game click <a href="/play">here</a>, though I would recommend reading the controls under here.
+To play the game click <a href="play">here</a>, though I would recommend reading the controls under here.
 
 ## Controls
 Run and Fireballs - X or K <br/>
