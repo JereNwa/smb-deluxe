@@ -29,6 +29,10 @@ The Sounds Resource (old version) and themushroomkingdom.net - Sound Effects<br/
 jen6C - Sprite colour<br/> 
 Creators: @TTTEfanSQB and @jen6C
 
+## Download
+<a href=".src/Super Mario Bros. Deluxe v3.2.1.zip">Download as an .zip file</a>
+<a href=".src/Super Mario Bros. Deluxe v3.2.1.sb3">Download as an .sb3 (Scratch project) file</a>
+
 ## Other stuff
 View griffpatch's YouTube Scratch tutorials [here](https://www.youtube.com/griffpatch)<br/>
 View the project this was ported from [here](https://scratch.mit.edu/projects/1123963952/)<br/>
