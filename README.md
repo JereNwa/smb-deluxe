@@ -30,8 +30,9 @@ jen6C - Sprite colour<br/>
 Creators: @TTTEfanSQB and @jen6C
 
 ## Download
-<a href="https://github.com/JereNwa/smb-deluxe/raw/refs/heads/main/.src/Super%20Mario%20Bros.%20Deluxe%20v3.2.1.zip">Download as an .zip file</a><br/>
-<a href="https://github.com/JereNwa/smb-deluxe/raw/refs/heads/main/.src/Super%20Mario%20Bros.%20Deluxe%20v3.2.1.sb3">Download as an .sb3 (Scratch project) file</a>
+<a href="https://github.com/JereNwa/smb-deluxe/releases/download/v3.2.1/Super.Mario.Bros.Deluxe.v3.2.1.zip">Download as an .zip file</a><br/>
+<a href="https://github.com/JereNwa/smb-deluxe/releases/download/v3.2.1/Super.Mario.Bros.Deluxe.v3.2.1.sb3">Download as an .sb3 (Scratch project) file</a>
+<a href="https://github.com/JereNwa/smb-deluxe/releases/download/v3.2.1/Super.Mario.Bros.Deluxe.v3.2.1.html">Downolad as an HTML file</a>
 
 ## Other stuff
 View griffpatch's YouTube Scratch tutorials [here](https://www.youtube.com/griffpatch)<br/>
