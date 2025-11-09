@@ -1,4 +1,10 @@
 # smb-deluxe
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 A modernised version of the original Super Mario Bros. ported from Scratch. I first made this three years ago and is a remix of @TTTEfanSQB (Scratch username).
 
 To play the game click <a href="play">here</a>, though I would recommend reading the controls under here.
@@ -38,3 +44,18 @@ Creators: @TTTEfanSQB and @jen6C
 View griffpatch's YouTube Scratch tutorials [here](https://www.youtube.com/griffpatch)<br/>
 View the project this was ported from [here](https://scratch.mit.edu/projects/1123963952/)<br/>
 View the original project that was remixed [here](https://scratch.mit.edu/projects/425822460/)<br/>
+
+
+##
+![](https://img.shields.io/github/stars/JereNwa/smb-deluxe.svg?style=social)
+
+[contributors-shield]: https://img.shields.io/github/contributors/JereNwa/smb-deluxe.svg?style=for-the-badge
+[contributors-url]: https://github.com/JereNwa/smb-deluxe/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JereNwa/smb-deluxe.svg?style=for-the-badge
+[forks-url]: https://github.com/JereNwa/smb-deluxe/network/members
+[stars-shield]: https://img.shields.io/github/stars/JereNwa/smb-deluxe.svg?style=for-the-badge
+[stars-url]: https://github.com/JereNwa/smb-deluxe/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JereNwa/smb-deluxe.svg?style=for-the-badge
+[issues-url]: https://github.com/JereNwa/smb-deluxe/issues
+[license-shield]: https://img.shields.io/github/license/JereNwa/smb-deluxe.svg?style=for-the-badge
+[license-url]: https://github.com/JereNwa/smb-deluxe/LICENSE.txt
