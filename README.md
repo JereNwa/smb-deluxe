@@ -45,10 +45,6 @@ View griffpatch's YouTube Scratch tutorials [here](https://www.youtube.com/griff
 View the project this was ported from [here](https://scratch.mit.edu/projects/1123963952/)<br/>
 View the original project that was remixed [here](https://scratch.mit.edu/projects/425822460/)<br/>
 
-
-##
-![](https://img.shields.io/github/stars/JereNwa/smb-deluxe.svg?style=social)
-
 [contributors-shield]: https://img.shields.io/github/contributors/JereNwa/smb-deluxe.svg?style=for-the-badge
 [contributors-url]: https://github.com/JereNwa/smb-deluxe/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JereNwa/smb-deluxe.svg?style=for-the-badge
